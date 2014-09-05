@@ -6,6 +6,7 @@ The opposite of shrinkwrap, releases all your versions.
 Usage: `npm-christmas [wrap or unwrap]` (defaults to unwrap)
 
 unwrap: Your `package.json` file will have it's dependency versions replaced with *
+
 wrap: Your `package.json` file will pick up versions from your currently installed packages
 
 Use npm shrinkwrap for a more robust wrap

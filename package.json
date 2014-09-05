@@ -1,6 +1,6 @@
 {
   "name": "npm-christmas",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The opposite of shrinkwrap, releases all your versions",
   "bin": {
     "npm-christmas": "bin/npm-christmas.js"
