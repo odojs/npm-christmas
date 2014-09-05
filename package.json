@@ -1,0 +1,22 @@
+{
+  "name": "npm-christmas",
+  "version": "0.0.0",
+  "description": "The opposite of shrinkwrap, releases all your versions",
+  "bin": {
+    "npm-christmas": "bin/npm-christmas.js"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcoats/npm-christmas.git"
+  },
+  "author": "Thomas Coats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcoats/npm-christmas/issues"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/tcoats/npm-christmas"
+}
